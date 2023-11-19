@@ -1,4 +1,4 @@
-## Subscription System
+## CynMail Backend
 
 This is a simple Email service and their users can  create contacts and contact groups to send
 bulk emails
